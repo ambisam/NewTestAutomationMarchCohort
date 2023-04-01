@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "of2oUFuc4ykWRHKxpgsFT+s9ZMfWZv7wiNE7JLPuGeD5aMxr4MGM3/U0xSsgkFcb+rBksNbs4FPUxiT+r4VDTw==",
+  "dgSpecHash": "5jM/tINakD8MiMsLhvdAe+0ogkMxd2x4Tq0nX8OM5pqfcLMm35hEc9QOOobXfWWyT/VhjNfKvDcdodqvGkP7/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\larex\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
+  "projectFilePath": "C:\\Users\\larex\\Documents\\GitHub\\NewTestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\larex\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\larex\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

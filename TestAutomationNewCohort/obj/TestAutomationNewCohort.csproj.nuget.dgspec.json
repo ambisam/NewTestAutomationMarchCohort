@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\larex\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {}
+    "C:\\Users\\larex\\Documents\\GitHub\\NewTestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\larex\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {
+    "C:\\Users\\larex\\Documents\\GitHub\\NewTestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\larex\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
+        "projectUniqueName": "C:\\Users\\larex\\Documents\\GitHub\\NewTestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
         "projectName": "TestAutomationNewCohort",
-        "projectPath": "C:\\Users\\larex\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
+        "projectPath": "C:\\Users\\larex\\Documents\\GitHub\\NewTestAutomationMarchCohort\\TestAutomationNewCohort\\TestAutomationNewCohort.csproj",
         "packagesPath": "C:\\Users\\larex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\larex\\source\\repos\\TestAutomationNewCohort\\TestAutomationNewCohort\\obj\\",
+        "outputPath": "C:\\Users\\larex\\Documents\\GitHub\\NewTestAutomationMarchCohort\\TestAutomationNewCohort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\larex\\AppData\\Roaming\\NuGet\\NuGet.Config",
